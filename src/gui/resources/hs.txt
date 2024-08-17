@@ -1,0 +1,6 @@
+willy,5
+dani,3
+dani,3
+dani,1
+tom,6
+jack,8
